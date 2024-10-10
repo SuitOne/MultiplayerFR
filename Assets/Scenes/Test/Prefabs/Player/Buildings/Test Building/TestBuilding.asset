@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdb09a7c9a8112646878742353121b90, type: 3}
+  m_Name: TestBuilding
+  m_EditorClassIdentifier: 
+  buildingName: Test
+  health: 100
+  ghostPrefab: {fileID: 4011264056551360161, guid: 6beb96e6e91ae914ab5e7addcc0cd8a2,
+    type: 3}
+  prefab: {fileID: 6279387138093427245, guid: 57006ae0d83288b4d9fa29f3480e229f, type: 3}
+  resourceCost: 10
+  manpowerCost: 1
